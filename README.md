@@ -1,5 +1,8 @@
 # DSC
+
 XenDesktop DSC Resources
+
+XenDesktopRole
 
 This is an installation resource for XenDesktop origionally released as a Technology Preview 
 as part of the Citrix Labs XenDesktop for the Private Cloud project.
